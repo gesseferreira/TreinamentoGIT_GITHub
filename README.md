@@ -1,2 +1,2 @@
 # TreinamentoGIT_GITHub
- Treinamento GIT e GITHub com professor Gustavo Guanabara (https://cursoemvideo.com)
+ Treinamento GIT e GITHub com professor Gustavo Guanabara, material, disponível grautuitamente em: (https://cursoemvideo.com)
